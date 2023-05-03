@@ -8,4 +8,4 @@
 
 ```world_population.csv```: Obtained from https://github.com/owid/covid-19-data/blob/master/scripts/input/un/population_latest.csv
 
-All are preprocessed appropriately for personal needs.
+All have been preprocessed appropriately for personal needs.
